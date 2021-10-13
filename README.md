@@ -1,1 +1,2 @@
-# analysis-and-design-SALE-APP
+# congnghephanmem
+Quản lý kinh doanh bán hàng
